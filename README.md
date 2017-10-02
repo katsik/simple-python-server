@@ -9,4 +9,7 @@ Apart from the sqlalchemy library you won't need anything else to make the proje
 # One More Thing
 First you have to run the database_setup.py file for the database to be created. Once you run it without any problems, I encourage you to add some objects to your database. However the server will be up and running without having any objects in your database.
 
+# Conclusion
+This project was made as a result of exploring the Python documentation and me wanting to use the HTTPBaseServer and see how it works.
+
 
